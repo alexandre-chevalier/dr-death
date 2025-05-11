@@ -1,4 +1,4 @@
-# dr-death
+# Dr-death  par Alexandre Chevalier Sewa Fumey et Zakaria Maanane
 
 ## "Britain’s most prolific serial killer" - Le médecin meurtrier
 
