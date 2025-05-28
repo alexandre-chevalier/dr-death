@@ -28,7 +28,6 @@ Sur la page de Canva de Power BI, différents graphiques ont été créés pour 
 
 **Visualisations Power BI :**
 
-*(Insérez ici des captures d'écran de vos visualisations Power BI)*
 
 * **Distribution des décès par année :** *(Capture d'écran du graphique)* Ce graphique visualise le nombre de décès attribués à Shipman au fil des ans.
 * **Distribution des âges des victimes :** *(Capture d'écran de l'histogramme)* Cette visualisation montre la répartition des âges des victimes.
@@ -37,10 +36,9 @@ Sur la page de Canva de Power BI, différents graphiques ont été créés pour 
 
 **Analyse des corrélations (basée sur vos visualisations) :**
 
-*(Décrivez ici les corrélations ou les tendances que vous avez identifiées grâce à vos visualisations Power BI. Par exemple : "L'analyse des décès par année révèle une concentration significative durant une période spécifique. L'examen de la distribution des âges montre une prédominance de victimes dans une certaine tranche d'âge. La comparaison des heures de décès [mentionnez si vous avez trouvé des anomalies ou des corrélations intéressantes]." Si vous avez cherché des corrélations spécifiques, décrivez vos résultats ici.)*
+
 
 ## Conclusion à la problématique
 
 L'analyse des données, initialement préparées et visualisées avec Pandas, puis explorées plus en détail pour identifier des corrélations avec Power BI, permet de tirer les conclusions suivantes concernant les victimes d'Harold Shipman et le moment de leurs décès :
 
-*(Rédigez ici votre conclusion en synthétisant les informations clés que vous avez découvertes, en mettant l'accent sur les corrélations que vous avez pu identifier grâce à Power BI. Par exemple : "L'analyse suggère une corrélation entre [facteur 1] et [facteur 2] dans les décès. L'examen des heures de décès révèle [votre conclusion sur les heures]. En conclusion, les données indiquent que Harold Shipman [résumez vos découvertes principales]." N'oubliez pas de mentionner toute limitation de votre analyse.)*
